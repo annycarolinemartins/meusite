@@ -1,0 +1,3 @@
+[0903/203124.446:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\settings.dat: Acesso negado. (0x5)
+[0903/203124.464:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[0903/203124.474:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\settings.dat: Acesso negado. (0x5)
