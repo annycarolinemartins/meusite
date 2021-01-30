@@ -252,7 +252,7 @@
   $(function() {
 	  if (typed.length > 0) {
 	      typed.typed({
-	        strings: ["de crescer", "de aprender", "de criar", "de se inspirar"],
+	        strings: ["de aprender", "de crescer", "de inspirar"],
 	        typeSpeed: 100,
 	        loop: true,
 	      });
