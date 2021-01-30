@@ -200,6 +200,7 @@
 }
 .icon-repeat:before {
   content: "\e09e";
+  color: #8CA0B3;
 }
 .icon-folder2:before {
   content: "\e09f";
@@ -248,6 +249,7 @@
 }
 .icon-head:before {
   content: "\e0ae";
+  color: #8CA0B3;
 }
 .icon-briefcase3:before {
   content: "\e0af";
@@ -296,6 +298,7 @@
 }
 .icon-bar-graph:before {
   content: "\e0be";
+  color: #8CA0B3;
 }
 .icon-bar-graph-2:before {
   content: "\e0bf";
